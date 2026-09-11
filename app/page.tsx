@@ -123,7 +123,7 @@ export default function Home() {
                 [ ALERT: SYSTEM ONLINE ]
               </p>
               <h1 className="text-3xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-green-600 tracking-wider animate-pulse drop-shadow-[0_0_20px_rgba(0,255,0,0.8)]">
-                HÂN CẤN SYSTEM
+                LOLI SYSTEM
               </h1>
               <p className="mt-2 text-sm text-green-400">
                 Hệ thống Quản lý Sản phẩm Cyberpunk – Tương tác Realtime!
