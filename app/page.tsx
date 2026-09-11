@@ -79,7 +79,7 @@ export default function Home() {
             [ ALERT: CRITICAL OVERRIDE DETECTED ]
           </p>
           <h1 className="text-3xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-green-600 tracking-wider animate-pulse drop-shadow-[0_0_20px_rgba(0,255,0,0.8)]">
-            HÂN CẤN SYSTEM
+            LONG GAY SYSTEM
           </h1>
           <p className="mt-2 text-sm text-green-400 opacity-80">
             SYSTEM STATUS: <span className="text-red-500 font-bold underline animate-ping">CRITICAL OVERLOAD</span>
