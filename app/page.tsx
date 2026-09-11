@@ -153,10 +153,10 @@ export default function Home() {
             <table className="w-full text-left border-collapse border border-green-800 text-xs md:text-sm">
               <thead>
                 <tr className="bg-zinc-900 text-green-400 border-b border-green-800">
-                  <th className="p-3 border-r border-green-800">ID</th>
-                  <th className="p-3 border-r border-green-800">TÊN SẢN PHẨM</th>
-                  <th className="p-3 border-r border-green-800">DANH MỤC</th>
-                  <th className="p-3 border-r border-green-800">GIÁ</th>
+                  <th className="p-3 border-r border-b-fuchsia-500-800">ID</th>
+                  <th className="p-3 border-r border-b-fuchsia-500-800">TÊN SẢN PHẨM</th>
+                  <th className="p-3 border-r border-b-fuchsia-500-800">DANH MỤC</th>
+                  <th className="p-3 border-r border-b-fuchsia-500-800">GIÁ</th>
                   <th className="p-3 text-center">THAO TÁC</th>
                 </tr>
               </thead>
