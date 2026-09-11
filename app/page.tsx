@@ -73,7 +73,7 @@ export default function Home() {
             <div className="w-3 h-3 rounded-full bg-green-500 animate-pulse"></div>
           </div>
           <p className="text-xs text-green-400 tracking-widest font-bold uppercase hidden sm:block">
-            ROOT@DEVOPS-SERVER:~ # HÂN_CẤN_SYSTEM_v2.0
+            ROOT@DEVOPS-SERVER:~ # LOLI_SYSTEM_v2.0
           </p>
         </div>
 
